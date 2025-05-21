@@ -1,0 +1,8 @@
+total 53
+drwxr-xr-x 1 qjawn 197609     0 May 21 11:19 ./
+drwxr-xr-x 1 qjawn 197609     0 May 21 11:18 ../
+drwxr-xr-x 1 qjawn 197609     0 May 21 11:18 .git/
+-rw-r--r-- 1 qjawn 197609  7372 May 21 11:18 .gitignore
+-rw-r--r-- 1 qjawn 197609 35823 May 21 11:18 LICENSE
+-rw-r--r-- 1 qjawn 197609     9 May 21 11:18 README.md
+-rw-r--r-- 1 qjawn 197609     0 May 21 11:19 list.txt
